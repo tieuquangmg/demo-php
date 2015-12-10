@@ -1,0 +1,1 @@
+﻿Chỉnh sửa database trong file app/config/database.php
